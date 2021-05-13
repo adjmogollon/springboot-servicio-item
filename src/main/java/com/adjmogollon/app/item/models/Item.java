@@ -1,5 +1,7 @@
 package com.adjmogollon.app.item.models;
 
+import com.adjmogollon.app.commons.models.entity.Producto;
+
 import lombok.Data;
 
 @Data

@@ -7,9 +7,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
 
+import com.adjmogollon.app.commons.models.entity.Producto;
 import com.adjmogollon.app.item.clientes.ProductoClienteRest;
 import com.adjmogollon.app.item.models.Item;
-import com.adjmogollon.app.item.models.Producto;
+
 
 @Service("serviceFeign")
 @Primary

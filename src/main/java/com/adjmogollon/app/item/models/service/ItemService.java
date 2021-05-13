@@ -2,8 +2,9 @@ package com.adjmogollon.app.item.models.service;
 
 import java.util.List;
 
+import com.adjmogollon.app.commons.models.entity.Producto;
 import com.adjmogollon.app.item.models.Item;
-import com.adjmogollon.app.item.models.Producto;
+
 
 public interface ItemService {
 

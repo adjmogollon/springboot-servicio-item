@@ -14,8 +14,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
+import com.adjmogollon.app.commons.models.entity.Producto;
 import com.adjmogollon.app.item.models.Item;
-import com.adjmogollon.app.item.models.Producto;
 
 @Service("serviceRestTemplate")
 public class ItemServiceImpl implements ItemService {
